@@ -1,9 +1,8 @@
-# Getting Started with Create React App
+# Custom hook to change the theme in the app
 
+## Stack
+- React(TypeScript)
+- React Bootstrap
+- SCSS
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `yarn start`
 
